@@ -1,3 +1,10 @@
+Proyecto REACT - Consumo de una API de clima donde se muestra la temperatura actual y la de 8 dias despues.
+	-Consumo de API con AXIOS
+	-Manejo de ruta con react-router-dom
+	-Uso de Hooks 
+	-Uso de Context
+	-Diseño responsivo
+	
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
